@@ -8,7 +8,7 @@ KayakFlights (Page class) - will find the WebElements of the web page and also c
 TestKayakFlights - contains all test Methods.
 
 Installation:
-git clone https://github.com/ashybaila/Kayak.git
+git clone https://github.com/AlehShybaila/KayakFlights.git
 
 Execution:
 Change directory to the location of the project you cloned. Execute in command prompt:
