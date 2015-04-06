@@ -1,0 +1,17 @@
+# ===================================================================
+# Username:      [Aleh Shybaila]
+# Email:         [ashybaila@gmail.com]
+# Date:          [Mon Apr 06 01:25:52 PDT 2015]
+#
+# OS:            [Windows 7]
+# Java version:  [1.8.0_25]
+#
+# Script name:   [KayakFlights]
+# Description:   [Assert the Origin and Destination Details are the same as the one in the main screen]
+# Output file:   [report_01.txt]
+# ===================================================================
+# TC-001.03 Airport Origin entered in the main screen: SJC
+# TC-001.03 Airport Origin on Results screen: SJC
+# TC-001.03 Airport Destination entered in the main screen: SEA
+# TC-001.03 Airport Destination on Results screen: SEA
+# ===================================================================
